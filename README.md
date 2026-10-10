@@ -16,8 +16,8 @@ I explore the intersection of machine learning and systems, turning research ide
 
 ### Research & Experience
 
-- Undergraduate research in **3D Gaussian Splatting** and **novel-view synthesis**
 - **ETRI** — Summer Research Internship (2026)
+- Undergraduate research in **3D Gaussian Splatting** and **novel-view synthesis**
 - Research on mobile execution optimization for static 3D Gaussian Splatting
 - **Silver Prize** — SKKU Capstone Design Competition (2025)
 
